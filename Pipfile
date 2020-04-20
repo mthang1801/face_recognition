@@ -8,7 +8,6 @@ verify_ssl = true
 [packages]
 requests = "*"
 face-recognition = "*"
-cv2 = "*"
 opencv-python = "*"
 
 [requires]
